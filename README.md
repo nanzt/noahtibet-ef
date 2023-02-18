@@ -8,11 +8,13 @@ For more technical details, please refer to:
 
 * Wu X, Nan Z*, Zhao S, Zhao L, Cheng G. Spatial modelling of permafrost distribution and properties on the Qinghai-Tibet Plateau. Permafrost and Periglacial Processes. 2018, 29(2): 86-99. doi:10.1002/ppp.1971. [https://onlinelibrary.wiley.com/doi/full/10.1002/ppp.1971](https://onlinelibrary.wiley.com/doi/full/10.1002/ppp.1971)
 
-This release is the version used for the simulation in the work published on Earth's Future. We are continuourly working to improve the LSM more suitable for permafrost simulation on the QTP. We decided to disclose these codes in the hope of encouraging sharing by the permafrost science community.
+This release is the version used for the simulation in the work published in Earth's Future. We are continuously working to improve the LSM more suitable for permafrost simulation on the QTP. We decided to make these codes public in the hope of encouraging sharing by the permafrost science community.
+
+Zhang G, Nan Z*, Hu N, Yin Z, Zhao L, Cheng G, Mu C. [Qinghai-Tibet Plateau permafrost at risk in the late 21st century](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022EF002652). Earth's Future. 2022, 10(6): e2022E-e2652E. doi:10.1029/2022EF002652.
 
 It is based on the Unified Noah LSM 3.4.1, which was originally developed by scientists from Research Applications Laboratory, NCAR. More information as well as the source codes of Noah LSM 3.4.1 can be found at [its official site]( https://ral.ucar.edu/solutions/products/unified-noah-lsm). 
 
-If you have made modifications based on this version or published a paper using this version, please share your good news with us (nanzt@njnu.edu.cn). Unfortunately, since our time is limited, we cannot provide any technical assistance. The same codes can also be found at [our group site](https://permalab.science/publications/codes). 
+If you have made modifications based on this version or published a paper using this version, please share your good news with us (nanzt@njnu.edu.cn). Unfortunately, since our time is limited, we cannot provide any technical assistance. The same codes can also be found at [our group site](https://permalab.science/publications/codes). Please check [Github](https://github.com/nanzt/noahtibet-ef) for the latest version (if any). 
 
 Permalab team
 ([https://permalab.science](https://permalab.science))

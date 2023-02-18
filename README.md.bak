@@ -12,7 +12,7 @@ This release is the version used for the simulation in the work submitted to Ear
 
 It is based on the Unified Noah LSM 3.4.1, which was originally developed by scientists from Research Applications Laboratory, NCAR. More information as well as the source codes of Noah LSM 3.4.1 can be found at [its official site]( https://ral.ucar.edu/solutions/products/unified-noah-lsm). 
 
-If you have made modifications based on this version or published a paper using this version, please share your good news with us (nanzt@njnu.edu.cn). Unfortunately, since our time is limited, we cannot provide any technical assistance. The same codes can also be found at [our group site](https://permalab.science/publications/codes). 
+If you have made modifications based on this version or published a paper using this version, please share your good news with us (nanzt@njnu.edu.cn). Unfortunately, since our time is limited, we cannot provide any technical assistance. Please check our group site for further improvements to this version. 
 
 Permalab team
 ([https://permalab.science](https://permalab.science))
